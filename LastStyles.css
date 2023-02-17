@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+}
+
+h1 {
+    font-size: 50px; 
+    color: rgb(100, 29, 214); 
+    text-align: center; 
+    text-shadow: 4px 4px 4px #cb4adc;
+    text-decoration: underline overline;
+}
+
+h2 {
+    font-size: 15px; 
+    color: #ca00b2; 
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid rgb(72, 255, 0);
+      }
+h3 {
+    font-size: 20px; 
+    color: rgb(242, 0, 255); 
+    text-align: center; 
+    text-shadow: 1px 1px 1px #6f0166; 
+}
+
+
+h5 {
+    text-align: center;
+}
+
+#back {
+    font-size: 15px; 
+    color: rgb(255, 255, 255);  
+    text-decoration: underline overline;
+    text-shadow: 4px 4px 4px #b029c2;
+}
+
+#home {
+    font-size: 15px; 
+    color: rgb(255, 255, 255); 
+    text-decoration: underline overline;
+    text-shadow: 4px 4px 4px #b029c2;
+}
